@@ -47,3 +47,12 @@ mkdir -p .github/workflows
 
 - Create .github/workflows/deploy.yml 
 
+4. Adding guardrails to the site. 
+- Disclaimer on the home page (docs/index.md)
+- A crisis support page (docs/crisis-support.md)
+- 
+
+5. Adding theme colors and a light/dark toggle
+
+## "First 72-Hours"  
+

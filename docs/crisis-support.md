@@ -1,0 +1,3 @@
+- Veterans/Military Crisis Line: dial 988, then press 1 (you can also text 838255)
+- 911 for emergencies
+- On-post chaplain and behavioral health, using official office numbers only (verify each one by calling it)

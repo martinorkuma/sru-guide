@@ -4,6 +4,7 @@ site_url = "https://martinorkuma.github.io/sru-guide/"
 
 nav = [
   { "Home" = "index.md" },
+  { "First 72 Hours" = "first-72-hours.md" },
   { "Crisis Support" = "crisis-support.md" },]
 
 extra_css = ["assets/extra.css"]
