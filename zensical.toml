@@ -2,3 +2,26 @@
 site_name = "SRU Soldier Guide"
 site_url = "https://martinorkuma.github.io/sru-guide/"
 
+nav = [
+  { "Home" = "index.md" },
+  { "Crisis Support" = "crisis-support.md" },]
+
+extra_css = ["assets/extra.css"]
+
+[project.theme]
+variant = "classic"
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to light mode"
+
