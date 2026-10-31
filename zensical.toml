@@ -6,6 +6,7 @@ nav = [
   { "Home" = "index.md" },
   { "First 72 Hours" = "first-72-hours.md" }, 
   { "Program Structure" = "program-structure.md" },
+  { "Who's Who" = "whos-who.md" },
   { "Crisis Support" = "crisis-support.md" },]
 
 extra_css = ["assets/extra.css"]
